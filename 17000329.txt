@@ -1,0 +1,13 @@
+git clone https://github.com/williamBertolucci/ads-pullrequest-activity.git
+
+cd ads-pullrequest-activity/
+
+touch 17000329.txt
+
+code .
+
+git add .
+
+git status
+
+git commit -m "atividade anderson"git push origin master
